@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkHub - Your Personal Link Aggregator</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>LinkHub</h1>
+            <div class="search-container">
+                <i class="fas fa-search search-icon"></i>
+                <input type="search" id="search-input" placeholder="Search links...">
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="intro">
+            <h2>My Links</h2>
+            <p>All your important links in one place</p>
+        </div>
+
+        <div class="category-filter">
+            <button class="category-btn active" data-category="all">All</button>
+            <button class="category-btn" data-category="work">Work</button>
+            <button class="category-btn" data-category="dev">Development</button>
+            <button class="category-btn" data-category="social">Social</button>
+            <button class="category-btn" data-category="bots">Chat Bots</button>
+            <button class="category-btn" data-category="analysis">Analysis</button>
+            <button class="category-btn" data-category="seo">Search Engine</button>
+            <button class="category-btn" data-category="research">Research</button>
+            <button class="category-btn" data-category="learning">Learning</button>
+            <button class="category-btn" data-category="design">Design</button>
+            <button class="category-btn" data-category="slides">Slides</button>
+            <button class="category-btn" data-category="tools">More Tools</button>
+        </div>
+
+        <div class="links-grid" id="links-container">
+            <!-- Links will be dynamically inserted here -->
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>© 2025 LinkHub. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
