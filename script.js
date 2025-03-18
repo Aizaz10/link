@@ -3,7 +3,7 @@ const allLinks = [
         title: "Google",
         url: "https://google.com",
         description: "The world's most popular search engine",
-        category: "seo",
+        category: "social",
         tags: ["search", "web"],
         favicon: "https://www.google.com/favicon.ico",
     },
@@ -38,7 +38,6 @@ const allLinks = [
         category: "research",
         tags: ["AI", "industry solutions", "efficiency"],
         favicon: "https://convergence.ai/favicon.ico",
-
     },
     {
         title: "Stack Overflow",
@@ -167,6 +166,30 @@ const allLinks = [
         category: "dev",
         tags: ["Website"],
         favicon: "https://type.link/favicon.ico",
+    },
+    {    
+        title: "UI Verse",
+        url: "https://uiverse.io",
+        description: "Website styling",
+        category: "dev",
+        tags: ["Website"],
+        favicon: "https://uiverse.io/favicon.ico",
+    },
+    {    
+        title: "Project AI",
+        url: "https://projectai.in",
+        description: "Project building",
+        category: "dev",
+        tags: ["Website"],
+        favicon: "https://projectai.in/favicon.ico",
+    },
+    {    
+        title: "Land Book",
+        url: "https://land-book.com",
+        description: "Make Landing Pages",
+        category: "dev",
+        tags: ["Website","Landing Pages"],
+        favicon: "https://projectai.in/favicon.ico",
     }
 ];
 
