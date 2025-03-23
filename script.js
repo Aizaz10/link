@@ -21,6 +21,7 @@ const allLinks = [
     createLink("UI Verse", "https://uiverse.io", "Website styling", "dev", ["Website", "code ", "styles"]),
     createLink("Project AI", "https://projectai.in", "Project building", "dev", ["Website", "Projects "]),
     createLink("Land Book", "https://land-book.com", "Make Landing Pages", "dev", ["Website", "Landing Pages "]),
+    createLink("10Web", "https://10web.io", "Building, hosting, and managing WordPress websites.","dev",["AI", "website builder", "hosting", "SEO"]),
     createLink("Chat GPT", "https://chat.openai.com", "AI chatbot developed by OpenAI", "bots", ["AI", "language model", "text generation"]),
     createLink("Perplexity", "https://perplexity.ai", "AI-powered search engine", "bots", ["AI", "language model"]),
     createLink("Deepseek", "https://www.deepseek.com", "Advanced AI platform", "bots", ["AI", "language model"]),
@@ -30,8 +31,9 @@ const allLinks = [
     createLink("Coursera", "https://coursera.org", "Online courses from top universities", "learning", ["education", "courses"]),
     createLink("Brand Mark", "https://brandmark.io", "AI-powered online logo and brand identity generator.", "design", ["logo design", "branding", "graphics"]),
     createLink("Designs AI", "https://designs.ai", "Create logos, videos, and more in minutes.", "design", ["design", "content creation", "branding"]),
+    createLink("MidJourney","https://midjourney.com","Creates stunning and realistic images from text prompts.","design",["image generation", "art"]),
     createLink("MagicSlides", "https://magicslides.app", "AI-powered Slides that creates presentations from text, videos and more", "slides", ["education", "courses"]),
-    createLink("Terrific Tools", "https://terrific.tools", "Productivity and automation solutions for developers and businesses", "tools", ["productivity"])
+    createLink("Terrific Tools", "https://terrific.tools", "Productivity and automation solutions for developers and businesses", "tools", ["productivity"]),
 ];
 
 // DOM elements
