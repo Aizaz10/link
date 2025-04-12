@@ -16,7 +16,7 @@ const allLinks = [
     createLink("GitHub", "https://github.com", "Where the world builds software", "work", ["development", "code", "git"]),
     createLink("Upwork", "https://www.upwork.com", "A leading freelancing platform.", "work", ["freelancing", "remote work", "marketplace"]),
     createLink("Linkedin", "https://www.linkedin.com", "online professional platform.", "work", ["freelancing", "remote work", "jobs"]),
-    createLink("Indeed", "indeed.com", "Jobs platform.", "work", ["freelancing", "remote work", "jobs"]),
+    createLink("Indeed", "https://pk.indeed.com", "Jobs platform.", "work", ["freelancing", "remote work", "jobs"]),
     createLink("Flex jobs", "https://www.flexjobs.com", "Jobs platform.", "work", ["freelancing", "remote work", "jobs"]),
     createLink("We work remotely", "https://weworkremotely.com", "Jobs platform.", "work", ["freelancing", "remote work", "jobs"]),
     createLink("Hire in Pakistan", "https://hireinpakistan.com", "Pakistan Freelancing platform.", "work", ["freelancing", "remote work"]),
