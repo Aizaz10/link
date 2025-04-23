@@ -10,9 +10,6 @@ function createLink(title, url, description, category, tags) {
 }
 
 const allLinks = [
-    createLink("Google", "https://google.com", "The world's most popular search engine", "social", ["search", "web"]),
-    createLink("Facebook", "https://facebook.com", "Connect with friends. Share photos and videos", "social", ["social media", "networking"]),
-    createLink("YouTube", "https://youtube.com", "Video sharing platform", "social", ["video", "entertainment"]),
     createLink("GitHub", "https://github.com", "Where the world builds software", "work", ["development", "code", "git"]),
     createLink("Upwork", "https://www.upwork.com", "A leading freelancing platform.", "work", ["freelancing", "remote work", "marketplace"]),
     createLink("Linkedin", "https://www.linkedin.com", "online professional platform.", "work", ["freelancing", "remote work", "jobs"]),
@@ -20,6 +17,7 @@ const allLinks = [
     createLink("Flex jobs", "https://www.flexjobs.com", "Jobs platform.", "work", ["freelancing", "remote work", "jobs"]),
     createLink("We work remotely", "https://weworkremotely.com", "Jobs platform.", "work", ["freelancing", "remote work", "jobs"]),
     createLink("Hire in Pakistan", "https://hireinpakistan.com", "Pakistan Freelancing platform.", "work", ["freelancing", "remote work"]),
+    createLink("Careerflow", "https://www.careerflow.ai", "Land your dream job without the stress.", "work", ["jobs", "work"]),
     createLink("Kashipara", "https://kashipara.com", "Educational platform offering project source codes.", "dev", ["open-source", "projects", "education", "programming"]),
     createLink("V0", "https://v0.dev", "AI-powered tool by Vercel for generating code from text descriptions", "dev", ["AI", "UI", "code generation", "Vercel"]),
     createLink("CerebrasCoder", "https://CerebrasCoder.com", "AI tool for generating fully functional applications from ideas", "dev", ["AI", "code generation", "app development"]),
@@ -31,6 +29,10 @@ const allLinks = [
     createLink("Same", "https://same.new", "Prompt URL to make copies/pages.","dev",["AI", "code" , "UI"]),
     createLink("Lovable", "https://lovable.dev", "App Builder - Build a Website in Minutes","dev",["AI", "code" , "UI"]),
     createLink("ELF Sight", "https://elfsight.com", "Upgrade your website","dev",["AI", "code" , "UI"]),
+    createLink("Durable AI", "https://durable.co", "Website builder that allowed me to apply my artistic side to the creation process","dev",["AI", "code"]),
+    createLink("Lazy AI", "https://getlazy.ai", "business apps/webs built with your prompts.","dev",["AI", "code"]),
+    createLink("Chef Convex", "https://chef.convex.dev", "Generate and launch realtime full-stack apps you never thought possible","dev",["AI", "code"]),
+    createLink("Fine", "https://ai.fine.dev", "What do you want to build? Vibe code full-stack web apps.","dev",["AI", "vibe code"]),
     createLink("Chat GPT", "https://chat.openai.com", "AI chatbot developed by OpenAI", "bots", ["AI", "language model", "text generation"]),
     createLink("Perplexity", "https://perplexity.ai", "AI-powered search engine", "bots", ["AI", "language model"]),
     createLink("Deepseek", "https://www.deepseek.com", "Advanced AI platform", "bots", ["AI", "language model"]),
@@ -51,10 +53,13 @@ const allLinks = [
     createLink("Hire Flow", "www.hireflow.net", "Check your resume.", "resume", ["design", "resume"]),
     createLink("Portfolio Box", "https://www.portfoliobox.net", "Create your Portfolio.", "resume", ["design", "portfolio"]),
     createLink("MidJourney","https://midjourney.com","Creates stunning and realistic images from text prompts.","design",["image generation", "art"]),
+    createLink("Color Hunt","https://colorhunt.co"," Get color inspiration for your design and art projects.","design",["color combinations"]),
     createLink("Clean Up","https://cleanup.pictures","Remove objects from pictures.","design",["image generation", "art"]),
-    createLink("MagicSlides", "https://magicslides.app", "AI-powered Slides that creates presentations from text, videos and more", "slides", ["education", "courses"]),
+    createLink("MagicSlides", "https://magicslides.app", "AI-powered Slides that creates presentations from text, videos and more", "slides", ["slides"]),
+    createLink("Decktopus", "https://www.decktopus.com", " Generate Beautiful Slides In Seconds ", "slides", ["design", "slides"]),
     createLink("Terrific Tools", "https://terrific.tools", "Productivity and automation solutions for developers and businesses", "tools", ["productivity"]),
     createLink("Tiny Wow", "https://tinywow.com", "AI Writing, PDF, Image, and other Online Tools", "tools", ["productivity"]),
+    createLink("10015", "https://10015.io", "All Online Tools in One Box", "tools", ["tools"]),
     createLink("SEO Studio", "https://seostudio.tools", "Offers to set of free SEO and expererience more tools", "tools", ["seo","tools"]),
 ];
 
