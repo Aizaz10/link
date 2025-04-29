@@ -53,7 +53,7 @@ const allLinks = [
     createLink("Lottie Files", "https://lottiefiles.com", "animations for web, apps and social.", "design", ["design", "code", "web"]),
     createLink("Rx Resu", "https://rxresu.me", "Create your resume.", "resume", ["design", "resume"]),
     createLink("Kick Resume", "https://www.kickresume.com/en/", "Create your resume.", "resume", ["design", "resume"]),
-    createLink("Hire Flow", "www.hireflow.net", "Check your resume.", "resume", ["design", "resume"]),
+    createLink("Hire Flow", "https://www.hireflow.net", "Check your resume.", "resume", ["design", "resume"]),
     createLink("Portfolio Box", "https://www.portfoliobox.net", "Create your Portfolio.", "resume", ["design", "portfolio"]),
     createLink("MidJourney","https://midjourney.com","Creates stunning and realistic images from text prompts.","design",["image generation", "art"]),
     createLink("Color Hunt","https://colorhunt.co"," Get color inspiration for your design and art projects.","design",["color combinations"]),
