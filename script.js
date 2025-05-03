@@ -27,6 +27,7 @@ const allLinks = [
     createLink("Land Book", "https://land-book.com", "Make Landing Pages", "dev", ["Website", "Landing Pages "]),
     createLink("Chat Base", "https://www.chatbase.co", "Create chatbots", "dev", ["bots", "AI"]),
     createLink("10Web", "https://10web.io", "Building, hosting, and managing WordPress websites.","dev",["AI", "website builder", "hosting", "SEO"]),
+    createLink("21st", "https://21st.dev", "Ship polished UIs faster with ready-to-use React Tailwind components inspired by shadcn/ui.","dev",["AI", "UI", "components"]),
     createLink("Same", "https://same.new", "Prompt URL to make copies/pages.","dev",["AI", "code" , "UI"]),
     createLink("Lovable", "https://lovable.dev", "App Builder - Build a Website in Minutes","dev",["AI", "code" , "UI"]),
     createLink("ELF Sight", "https://elfsight.com", "Upgrade your website","dev",["AI", "code" , "UI"]),
