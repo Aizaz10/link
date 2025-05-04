@@ -12,6 +12,7 @@ function createLink(title, url, description, category, tags) {
 const allLinks = [
     createLink("GitHub", "https://github.com", "Where the world builds software", "work", ["development", "code", "git"]),
     createLink("Upwork", "https://www.upwork.com", "A leading freelancing platform.", "work", ["freelancing", "remote work", "marketplace"]),
+    createLink("Freelancer", "https://www.freelancer.com", "Find freelancers in any field, from design, web development to marketing to accounting.", "work", ["freelancing", "remote work"]),
     createLink("Linkedin", "https://www.linkedin.com", "online professional platform.", "work", ["freelancing", "remote work", "jobs"]),
     createLink("Indeed", "https://pk.indeed.com", "Jobs platform.", "work", ["freelancing", "remote work", "jobs"]),
     createLink("Flex jobs", "https://www.flexjobs.com", "Jobs platform.", "work", ["freelancing", "remote work", "jobs"]),
