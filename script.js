@@ -19,6 +19,7 @@ const allLinks = [
     createLink("We work remotely", "https://weworkremotely.com", "Jobs platform.", "work", ["freelancing", "remote work", "jobs"]),
     createLink("Hire in Pakistan", "https://hireinpakistan.com", "Pakistan Freelancing platform.", "work", ["freelancing", "remote work"]),
     createLink("Careerflow", "https://www.careerflow.ai", "Land your dream job without the stress.", "work", ["jobs", "work"]),
+    createLink("Youware", "https://www.youware.com", "AI website maker - Stunning sites in seconds by simply text input.", "dev", ["open-source", "projects"]),
     createLink("Kashipara", "https://kashipara.com", "Educational platform offering project source codes.", "dev", ["open-source", "projects", "education", "programming"]),
     createLink("V0", "https://v0.dev", "AI-powered tool by Vercel for generating code from text descriptions", "dev", ["AI", "UI", "code generation", "Vercel"]),
     createLink("CerebrasCoder", "https://CerebrasCoder.com", "AI tool for generating fully functional applications from ideas", "dev", ["AI", "code generation", "app development"]),
