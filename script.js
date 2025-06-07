@@ -45,6 +45,7 @@ const allLinks = [
     createLink("Chat GPT", "https://chat.openai.com", "AI chatbot developed by OpenAI", "bots", ["ai-chatbot", "language-model", "openai"]),
     createLink("Perplexity", "https://perplexity.ai", "AI-powered search engine", "bots", ["ai-search", "research-tool"]),
     createLink("Deepseek", "https://www.deepseek.com", "Advanced AI platform", "bots", ["ai-chatbot", "research-tool"]),
+    createLink("Claude", "https://claude.ai", "An AI assistant focused on helpful, honest, and harmless conversations.", "bots", ["ai-chatbot", "language-model", "productivity"]),
     createLink("Convergence AI", "https://convergence.ai", "Best for research", "bots", ["ai-research", "enterprise-ai"]),
     createLink("X AI", "https://x.ai", "X chat bot", "bots", ["ai-chatbot", "twitter"]),
     createLink("Quill bot", "https://quillbot.com", "Ai detector and humanizer", "bots", ["writing-tool", "paraphrasing"]),
