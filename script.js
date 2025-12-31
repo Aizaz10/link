@@ -29,6 +29,8 @@ const allLinks = [
     createLink("React Bits", "https://www.reactbits.dev", "collection of high quality, animated, interactive & fully customizable React components", "dev", ["ui-components","react", "frontend"]),
     createLink("Spline", "https://spline.design", "Spline, a place to design and collaborate in 3D.", "dev", ["3d-design", "interactive-design"]),
     createLink("Project AI", "https://projectai.in", "Project building", "dev", ["ai-tools", "project-ideas"]),
+    createLink("Database Build", "https://database.build", "build your database", "dev", ["ai-tools", "database"]),
+    createLink("Prompt Hackers", "https://www.prompthackers.co", "Prompt generator for efficient response from AI", "dev", ["ai-tools", "prompts"]),
     createLink("Replit", "https://replit.com", "Tell Replit Agent your app or website idea", "dev", ["online-ide", "coding-environment"]),
     createLink("Land Book", "https://land-book.com", "Make Landing Pages", "dev", ["landing-pages", "design-inspiration", "ui-design"]),
     createLink("Chat Base", "https://www.chatbase.co", "Create chatbots", "dev", ["chatbots", "ai-tools"]),
@@ -206,3 +208,4 @@ searchInput.addEventListener('input', (e) => {
 
 // Initial render
 renderLinks();
+
